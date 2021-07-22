@@ -1,0 +1,44 @@
+.App {
+  text-align: center;  
+}
+
+.text {
+  margin-top: 3rem; 
+  border-radius: 0.5rem 0rem 0rem 0.5rem;
+}
+
+.image-btn {
+  border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+
+.App input {  
+  margin-top: 3rem;  
+  border-radius: 0.5rem 0rem 0rem 0.5rem; 
+}
+ 
+.container {   
+  text-align: center; 
+  padding: 10px; 
+  margin-top: 10px; 
+  width: 50%;
+  position: relative; 
+}
+
+.container img {  
+  border-radius: 4px;  
+  padding: 5px;  
+  width: 100%;
+}
+.container img :active {   
+  border-radius: 5px; 
+  padding: 5px;  
+  width: 90%; 
+}
+.container span{  
+  color: rgb(14, 13, 13);  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title { 
+  border-radius: 3rem 3rem 0rem 0rem;
+}
